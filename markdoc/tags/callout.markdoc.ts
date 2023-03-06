@@ -6,6 +6,6 @@ export const callout = {
   attributes: {
     title: {
       type: String,
-    },
+    }
   },
 };
